@@ -1,0 +1,17 @@
+ __  __     __   __     __     ______   __  __    
+/\ \/\ \   /\ "-.\ \   /\ \   /\__  _\ /\ \_\ \   
+\ \ \_\ \  \ \ \-.  \  \ \ \  \/_/\ \/ \ \____ \  
+ \ \_____\  \ \_\\"\_\  \ \_\    \ \_\  \/\_____\ 
+  \/_____/   \/_/ \/_/   \/_/     \/_/   \/_____/                       
+                                                                                                                                                                  
+
+
+Texture 1 source url: https://assetstore.unity.com/packages/2d/textures-materials/30-stylized-textures-free-246556
+
+Texture 2 source url:
+https://assetstore.unity.com/packages/3d/props/owl-statue-264588
+
+https://assetstore.unity.com/packages/3d/props/stylized-farm-asset-pack-small-276993
+
+3D model source url:
+https://github.com/mmGH-pp/Mult150/tree/main/MMy_Hour2
